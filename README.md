@@ -9,6 +9,3 @@ _fastlane Community_ will tend keep two things in mind when considering a plugin
 There are exceptions to these inclusion guidelines that will be handled on a case by case basis.
 
 Please [open an issue](https://github.com/fastlane-community/.github/issues/new) if you would like your plugin to be considered for inclusion 💪
-
-
-These are not official Google products.
